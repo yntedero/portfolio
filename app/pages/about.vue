@@ -2,12 +2,20 @@
   <div>
     This page is about me and myself
   </div>
+
+  <!-- <div>
+    <button @click="enableCustomLayout">Change layout</button>
+  </div> -->
 </template>
 
-<script lang="ts" setup>
+<script setup lang="ts">
+// function enableCustomLayout () {
+//   setPageLayout('another');
+// }
 
+// definePageMeta({
+//     layout: 'another'
+// })
 </script>
 
-<style>
-
-</style>
+<style></style>
