@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="">
     All blog list
   </div>
 </template>
