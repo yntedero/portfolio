@@ -4,7 +4,7 @@
       <div>
         <NuxtLink to="/" class="text-xl font-semibold p-2 hover:bg-gray-200">Yurii Ostapchuk</NuxtLink>
       </div>
-      <TheMenu />
+      <Menu />
     </header>
 
     <main class="p-2">
@@ -14,7 +14,6 @@
 </template>
 
 <script lang="ts" setup>
-import TheMenu from '~/components/TheMenu.vue';
 
 useHead({
   titleTemplate: '%s - Yurii Ostapchuk',
