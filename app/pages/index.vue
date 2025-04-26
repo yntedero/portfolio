@@ -16,8 +16,7 @@ useSeoMeta({
   twitterDescription: 'This is the main page app',
   twitterImage: '[twitter:image]',
   twitterCard: 'summary'
-})
-
+});
 </script>
 
 <style></style>
