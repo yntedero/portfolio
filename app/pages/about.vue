@@ -13,10 +13,6 @@
 //   setPageLayout('another');
 // }
 
-definePageMeta({
-    layout: 'custom',
-})
-
 </script>
 
 <style></style>
