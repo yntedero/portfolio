@@ -21,6 +21,6 @@
 
 <style scoped>
 .link {
-  @apply p-1 hover:bg-gray-200 rounded;
+  @apply p-1 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-sm;
 }
 </style>
